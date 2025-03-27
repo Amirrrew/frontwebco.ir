@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e559f3fe.css",
+    "main.js": "/static/js/main.ab843a0f.js",
+    "static/js/453.ad99f80e.chunk.js": "/static/js/453.ad99f80e.chunk.js",
+    "static/media/Kalameh-Regular.ttf": "/static/media/Kalameh-Regular.deb0cad0ec6b5b231214.ttf",
+    "index.html": "/index.html",
+    "main.e559f3fe.css.map": "/static/css/main.e559f3fe.css.map",
+    "main.ab843a0f.js.map": "/static/js/main.ab843a0f.js.map",
+    "453.ad99f80e.chunk.js.map": "/static/js/453.ad99f80e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e559f3fe.css",
+    "static/js/main.ab843a0f.js"
+  ]
+}
